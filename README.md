@@ -18,4 +18,4 @@ I have kept the name of my folder as ``` TheatreManagementSystem ```, hence the 
 ## Class Diagram
 
 The project follows the given Class Diagram.<br><br>
-![Class Diagram]()
+![Class Diagram](https://github.com/ajinkya-pande/theatre-management-system/blob/f0c7e4b98e71b6f49c63d6df137c714e4981474c/tmsClassDiagram.png)
