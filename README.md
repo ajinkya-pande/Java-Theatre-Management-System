@@ -4,11 +4,9 @@ This is a simple project to illustrate the functioning of class, inheritance, ab
 
 ## Overview
 
-<ul>
-<li>The project consists of multiple classes and components linked together to from Theatre Management System.</li>
-<li>It includes creation of the theatres in the cities, assigning the screens to the theatres and screening various movies to each of the theatre, based on the date available.</li>
-<li>You can easily add, delete, update and check the movie status for each screen.</li>
-</ul>
+* The project consists of multiple classes and components linked together to from Theatre Management System.
+* It includes creation of the theatres in the cities, assigning the screens to the theatres and screening various movies to each of the theatre, based on the date available.
+* You can easily add, delete, update and check the movie status for each screen.
 
 ## Instructions
 
@@ -17,5 +15,6 @@ I have kept the name of my folder as ``` TheatreManagementSystem ```, hence the 
 
 ## Class Diagram
 
-The project follows the given Class Diagram.<br><br>
+The project follows the given Class Diagram.
+
 ![Class Diagram](https://github.com/ajinkya-pande/theatre-management-system/blob/f0c7e4b98e71b6f49c63d6df137c714e4981474c/tmsClassDiagram.png)
